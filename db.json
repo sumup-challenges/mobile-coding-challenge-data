@@ -46,6 +46,7 @@
             "name": "Ogura Toast",
             "id": 7,
             "price": "4.99",
+            "currency": "EUR",
             "last_sold": "2020-09-11T23:59:58Z"
         },
         {
